@@ -1,0 +1,251 @@
+iconclass_level1,iconclass_name,room_function,count
+11,Christian religion,ROYAL_CHAPELS_ROOMS,137
+11,Christian religion,CHAPELS_ROOMS,57
+11,Christian religion,STAIRWELLS,46
+11,Christian religion,MAIN_HALLS,23
+11,Christian religion,PATRONAGE_LODGES,17
+12,"non-Christian religions (including institutions, customs and antiquities)",ROYAL_CHAPELS_ROOMS,5
+12,"non-Christian religions (including institutions, customs and antiquities)",BEDROOMS,2
+12,"non-Christian religions (including institutions, customs and antiquities)",COUNTING_ROOMS,2
+12,"non-Christian religions (including institutions, customs and antiquities)",ANTE_HALLS,1
+12,"non-Christian religions (including institutions, customs and antiquities)",BANQUET_HALLS,1
+13,"magic, supernaturalism, occultism",PATRONAGE_LODGES,1
+13,"magic, supernaturalism, occultism",ROYAL_CHAPELS_ROOMS,1
+13,"magic, supernaturalism, occultism",ANTEROOMS,0
+13,"magic, supernaturalism, occultism",ANTE_HALLS,0
+13,"magic, supernaturalism, occultism",BANQUET_HALLS,0
+14,astrology,MAIN_HALLS,2
+14,astrology,STAIRWELLS,2
+14,astrology,ANTEROOMS,0
+14,astrology,ANTE_HALLS,0
+14,astrology,BANQUET_HALLS,0
+20,"'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)",HALLS,1
+20,"'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)",MAIN_HALLS,1
+20,"'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)",ANTEROOMS,0
+20,"'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)",ANTE_HALLS,0
+20,"'Natura' (allegorical figure or scene; or as Diana of Ephesus, with many breasts); 'Natura' (Ripa)",BANQUET_HALLS,0
+21,"the four elements, and ether, the fifth element",MAIN_HALLS,15
+21,"the four elements, and ether, the fifth element",ANTEROOMS,5
+21,"the four elements, and ether, the fifth element",GALLERIES_DISPLAY_SPACES,4
+21,"the four elements, and ether, the fifth element",LONG_GALLERIES,4
+21,"the four elements, and ether, the fifth element",BEDROOMS,2
+22,natural phenomena,ROYAL_CHAPELS_ROOMS,12
+22,natural phenomena,BEDROOMS,1
+22,natural phenomena,HALLS,1
+22,natural phenomena,PRESENCE_CHAMBERS,1
+22,natural phenomena,STAIRWELLS,1
+23,time,MAIN_HALLS,31
+23,time,CABINETS_ROOMS,21
+23,time,PRESENCE_CHAMBERS,19
+23,time,ANTEROOMS,13
+23,time,LONG_GALLERIES,12
+24,the heavens (celestial bodies),LIBRARIES_ROOMS,6
+24,the heavens (celestial bodies),STAIRWELLS,6
+24,the heavens (celestial bodies),HALLS,5
+24,the heavens (celestial bodies),VESTIBULES,4
+24,the heavens (celestial bodies),CABINETS_ROOMS,1
+25,"earth, world as celestial body",HALLS,68
+25,"earth, world as celestial body",MAIN_HALLS,60
+25,"earth, world as celestial body",STAIRWELLS,40
+25,"earth, world as celestial body",ANTE_HALLS,39
+25,"earth, world as celestial body",LONG_GALLERIES,35
+26,meteorological phenomena,HALLS,8
+26,meteorological phenomena,STAIRWELLS,7
+26,meteorological phenomena,ROYAL_CHAPELS_ROOMS,6
+26,meteorological phenomena,MAIN_HALLS,4
+26,meteorological phenomena,PATRONAGE_LODGES,3
+31,man in a general biological sense,BANQUET_HALLS,86
+31,man in a general biological sense,CABINETS_ROOMS,20
+31,man in a general biological sense,GALLERIES_DISPLAY_SPACES,16
+31,man in a general biological sense,PATRONAGE_LODGES,10
+31,man in a general biological sense,HALLS,9
+32,human types; peoples and nationalities,ANTE_HALLS,12
+32,human types; peoples and nationalities,LONG_GALLERIES,12
+32,human types; peoples and nationalities,MAIN_HALLS,6
+32,human types; peoples and nationalities,STAIRWELLS,6
+32,human types; peoples and nationalities,CABINETS_ROOMS,2
+33,relations between individual persons,PRESENCE_CHAMBERS,4
+33,relations between individual persons,HALLS,3
+33,relations between individual persons,BEDROOMS,2
+33,relations between individual persons,COUNTING_ROOMS,2
+33,relations between individual persons,DINING_ROOMS,2
+34,man and animal,BANQUET_HALLS,3
+34,man and animal,STAIRWELLS,2
+34,man and animal,ANTEROOMS,1
+34,man and animal,CABINETS_ROOMS,1
+34,man and animal,HALLS,1
+35,"pastorals, Arcadian scenes",HALLS,2
+35,"pastorals, Arcadian scenes",LONG_GALLERIES,2
+35,"pastorals, Arcadian scenes",THEATERS_ROOMS,2
+35,"pastorals, Arcadian scenes",ANTEROOMS,0
+35,"pastorals, Arcadian scenes",ANTE_HALLS,0
+41,material aspects of daily life,BANQUET_HALLS,86
+41,material aspects of daily life,LONG_GALLERIES,49
+41,material aspects of daily life,ANTE_HALLS,42
+41,material aspects of daily life,HALLS,22
+41,material aspects of daily life,ROYAL_CHAPELS_ROOMS,19
+42,"family, descendance",HALLS,14
+42,"family, descendance",MAIN_HALLS,3
+42,"family, descendance",ROYAL_CHAPELS_ROOMS,3
+42,"family, descendance",BANQUET_HALLS,2
+42,"family, descendance",BEDROOMS,1
+43,"recreation, amusement",MAIN_HALLS,35
+43,"recreation, amusement",HALLS,26
+43,"recreation, amusement",ANTEROOMS,18
+43,"recreation, amusement",VESTIBULES,12
+43,"recreation, amusement",CABINETS_ROOMS,8
+44,state; law; political life,BANQUET_HALLS,77
+44,state; law; political life,MAIN_HALLS,20
+44,state; law; political life,STAIRWELLS,16
+44,state; law; political life,ROYAL_CHAPELS_ROOMS,8
+44,state; law; political life,CABINETS_ROOMS,7
+45,warfare; military affairs,BANQUET_HALLS,41
+45,warfare; military affairs,ROYAL_CHAPELS_ROOMS,34
+45,warfare; military affairs,MAIN_HALLS,13
+45,warfare; military affairs,MANSION_DINING_ROOMS,12
+45,warfare; military affairs,STAIRWELLS,9
+46,"social and economic life, transport and communication",HALLS,15
+46,"social and economic life, transport and communication",MAIN_HALLS,15
+46,"social and economic life, transport and communication",PATRONAGE_LODGES,7
+46,"social and economic life, transport and communication",STAIRWELLS,7
+46,"social and economic life, transport and communication",ROYAL_CHAPELS_ROOMS,6
+47,crafts and industries,HALLS,14
+47,crafts and industries,ROYAL_CHAPELS_ROOMS,13
+47,crafts and industries,BANQUET_HALLS,6
+47,crafts and industries,GUEST_ROOMS,6
+47,crafts and industries,STAIRWELLS,6
+48,art,MAIN_HALLS,82
+48,art,HALLS,57
+48,art,STAIRWELLS,45
+48,art,LONG_GALLERIES,35
+48,art,CABINETS_ROOMS,24
+49,"education, science and learning",MAIN_HALLS,16
+49,"education, science and learning",STAIRWELLS,15
+49,"education, science and learning",VESTIBULES,14
+49,"education, science and learning",ROYAL_CHAPELS_ROOMS,6
+49,"education, science and learning",PRESENCE_CHAMBERS,5
+5(+2),"Abstract Ideas and Concepts (+ allegorical scene, i.e. two or more personifications involved in an action)",HALLS,1
+5(+2),"Abstract Ideas and Concepts (+ allegorical scene, i.e. two or more personifications involved in an action)",ANTEROOMS,0
+5(+2),"Abstract Ideas and Concepts (+ allegorical scene, i.e. two or more personifications involved in an action)",ANTE_HALLS,0
+5(+2),"Abstract Ideas and Concepts (+ allegorical scene, i.e. two or more personifications involved in an action)",BANQUET_HALLS,0
+5(+2),"Abstract Ideas and Concepts (+ allegorical scene, i.e. two or more personifications involved in an action)",BATHROOMS,0
+5(+4),Abstract Ideas and Concepts (+ emblematical representation of concept),ANTE_HALLS,9
+5(+4),Abstract Ideas and Concepts (+ emblematical representation of concept),ANTEROOMS,0
+5(+4),Abstract Ideas and Concepts (+ emblematical representation of concept),BANQUET_HALLS,0
+5(+4),Abstract Ideas and Concepts (+ emblematical representation of concept),BATHROOMS,0
+5(+4),Abstract Ideas and Concepts (+ emblematical representation of concept),BEDROOMS,0
+51,Generalities,MAIN_HALLS,3
+51,Generalities,LONG_GALLERIES,1
+51,Generalities,ROYAL_CHAPELS_ROOMS,1
+51,Generalities,ANTEROOMS,0
+51,Generalities,ANTE_HALLS,0
+52,Reasoning and Formation of Ideas,LONG_GALLERIES,4
+52,Reasoning and Formation of Ideas,BANQUET_HALLS,2
+52,Reasoning and Formation of Ideas,ROYAL_CHAPELS_ROOMS,2
+52,Reasoning and Formation of Ideas,ANTEROOMS,1
+52,Reasoning and Formation of Ideas,CORRIDORS,1
+53,"Will, Volition",CABINETS_ROOMS,3
+53,"Will, Volition",GALLERIES_DISPLAY_SPACES,2
+53,"Will, Volition",LONG_GALLERIES,1
+53,"Will, Volition",STAIRWELLS,1
+53,"Will, Volition",ANTEROOMS,0
+54,Process of Action,STAIRWELLS,4
+54,Process of Action,ROYAL_CHAPELS_ROOMS,2
+54,Process of Action,CABINETS_ROOMS,1
+54,Process of Action,MAIN_HALLS,1
+54,Process of Action,ANTEROOMS,0
+55,Property,STAIRWELLS,2
+55,Property,LONG_GALLERIES,1
+55,Property,MAIN_HALLS,1
+55,Property,ANTEROOMS,0
+55,Property,ANTE_HALLS,0
+56,Emotion,LONG_GALLERIES,2
+56,Emotion,MAIN_HALLS,1
+56,Emotion,ANTEROOMS,0
+56,Emotion,ANTE_HALLS,0
+56,Emotion,BANQUET_HALLS,0
+57,Morality,MAIN_HALLS,6
+57,Morality,ANTEROOMS,5
+57,Morality,LONG_GALLERIES,3
+57,Morality,STAIRWELLS,3
+57,Morality,ANTE_HALLS,1
+58,Creation,PATRONAGE_LODGES,2
+58,Creation,MAIN_HALLS,1
+58,Creation,ANTEROOMS,0
+58,Creation,ANTE_HALLS,0
+58,Creation,BANQUET_HALLS,0
+59,Aspects of Social Conduct,MAIN_HALLS,6
+59,Aspects of Social Conduct,STAIRWELLS,4
+59,Aspects of Social Conduct,HALLS,3
+59,Aspects of Social Conduct,PRESENCE_CHAMBERS,2
+59,Aspects of Social Conduct,VESTIBULES,2
+61,historical events and situations; historical persons,BANQUET_HALLS,35
+61,historical events and situations; historical persons,PRESENCE_CHAMBERS,13
+61,historical events and situations; historical persons,HALLS,5
+61,historical events and situations; historical persons,MAIN_HALLS,5
+61,historical events and situations; historical persons,LONG_GALLERIES,3
+7(+1),Bible (+ Holy Trinity),ROYAL_CHAPELS_ROOMS,1
+7(+1),Bible (+ Holy Trinity),ANTEROOMS,0
+7(+1),Bible (+ Holy Trinity),ANTE_HALLS,0
+7(+1),Bible (+ Holy Trinity),BANQUET_HALLS,0
+7(+1),Bible (+ Holy Trinity),BATHROOMS,0
+71,Old Testament,BEDROOMS,12
+71,Old Testament,ROYAL_CHAPELS_ROOMS,9
+71,Old Testament,ANTEROOMS,8
+71,Old Testament,LONG_GALLERIES,7
+71,Old Testament,CHAPELS_ROOMS,6
+72,typological juxtapositions and compositions,ROYAL_CHAPELS_ROOMS,2
+72,typological juxtapositions and compositions,ANTEROOMS,0
+72,typological juxtapositions and compositions,ANTE_HALLS,0
+72,typological juxtapositions and compositions,BANQUET_HALLS,0
+72,typological juxtapositions and compositions,BATHROOMS,0
+73,New Testament,ROYAL_CHAPELS_ROOMS,46
+73,New Testament,CHAPELS_ROOMS,21
+73,New Testament,LONG_GALLERIES,9
+73,New Testament,ANTEROOMS,3
+73,New Testament,STAIRWELLS,3
+9,Classical Mythology and Ancient History,ANTEROOMS,1
+9,Classical Mythology and Ancient History,HALLS,1
+9,Classical Mythology and Ancient History,ANTE_HALLS,0
+9,Classical Mythology and Ancient History,BANQUET_HALLS,0
+9,Classical Mythology and Ancient History,BATHROOMS,0
+91,"myths about creation: cosmogony, theogony, and the origin of man",STAIRWELLS,5
+91,"myths about creation: cosmogony, theogony, and the origin of man",MAIN_HALLS,4
+91,"myths about creation: cosmogony, theogony, and the origin of man",BANQUET_HALLS,2
+91,"myths about creation: cosmogony, theogony, and the origin of man",HALLS,2
+91,"myths about creation: cosmogony, theogony, and the origin of man",LONG_GALLERIES,2
+92,gods ~ classical mythology,MAIN_HALLS,209
+92,gods ~ classical mythology,HALLS,106
+92,gods ~ classical mythology,ANTEROOMS,80
+92,gods ~ classical mythology,BEDROOMS,73
+92,gods ~ classical mythology,STAIRWELLS,72
+93,meetings and dwellings of the gods,MAIN_HALLS,5
+93,meetings and dwellings of the gods,HALLS,4
+93,meetings and dwellings of the gods,ANTEROOMS,3
+93,meetings and dwellings of the gods,PRESENCE_CHAMBERS,2
+93,meetings and dwellings of the gods,VESTIBULES,2
+94,the Greek heroic legends (I),MAIN_HALLS,14
+94,the Greek heroic legends (I),HALLS,10
+94,the Greek heroic legends (I),STAIRWELLS,8
+94,the Greek heroic legends (I),ANTEROOMS,7
+94,the Greek heroic legends (I),BEDROOMS,7
+95,the Greek heroic legends (II),BANQUET_HALLS,3
+95,the Greek heroic legends (II),CABINETS_ROOMS,3
+95,the Greek heroic legends (II),ANTEROOMS,2
+95,the Greek heroic legends (II),MAIN_HALLS,2
+95,the Greek heroic legends (II),PRESENCE_CHAMBERS,2
+96,Roman gods and legends,MAIN_HALLS,52
+96,Roman gods and legends,PRESENCE_CHAMBERS,17
+96,Roman gods and legends,ANTEROOMS,12
+96,Roman gods and legends,STAIRWELLS,9
+96,Roman gods and legends,BANQUET_HALLS,8
+97,metamorphoses ~ classical mythology,MAIN_HALLS,4
+97,metamorphoses ~ classical mythology,BEDROOMS,2
+97,metamorphoses ~ classical mythology,GALLERIES_DISPLAY_SPACES,2
+97,metamorphoses ~ classical mythology,ANTEROOMS,1
+97,metamorphoses ~ classical mythology,LONG_GALLERIES,1
+98,classical history,MAIN_HALLS,8
+98,classical history,BEDROOMS,6
+98,classical history,ANTEROOMS,2
+98,classical history,BANQUET_HALLS,1
+98,classical history,COUNTING_ROOMS,1

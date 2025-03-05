@@ -1,0 +1,171 @@
+room_function,iconclass_level1,iconclass_name,count
+ANTEROOMS,92,gods ~ classical mythology,80
+ANTEROOMS,25,"earth, world as celestial body",27
+ANTEROOMS,43,"recreation, amusement",18
+ANTEROOMS,11,Christian religion,15
+ANTEROOMS,23,time,13
+ANTE_HALLS,41,material aspects of daily life,42
+ANTE_HALLS,25,"earth, world as celestial body",39
+ANTE_HALLS,48,art,16
+ANTE_HALLS,11,Christian religion,12
+ANTE_HALLS,32,human types; peoples and nationalities,12
+BANQUET_HALLS,31,man in a general biological sense,86
+BANQUET_HALLS,41,material aspects of daily life,86
+BANQUET_HALLS,44,state; law; political life,77
+BANQUET_HALLS,45,warfare; military affairs,41
+BANQUET_HALLS,61,historical events and situations; historical persons,35
+BATHROOMS,92,gods ~ classical mythology,1
+BATHROOMS,96,Roman gods and legends,1
+BATHROOMS,11,Christian religion,0
+BATHROOMS,12,"non-Christian religions (including institutions, customs and antiquities)",0
+BATHROOMS,13,"magic, supernaturalism, occultism",0
+BEDROOMS,92,gods ~ classical mythology,73
+BEDROOMS,25,"earth, world as celestial body",21
+BEDROOMS,48,art,13
+BEDROOMS,41,material aspects of daily life,12
+BEDROOMS,71,Old Testament,12
+BOARDROOMS,25,"earth, world as celestial body",7
+BOARDROOMS,92,gods ~ classical mythology,5
+BOARDROOMS,94,the Greek heroic legends (I),3
+BOARDROOMS,11,Christian religion,1
+BOARDROOMS,44,state; law; political life,1
+CABINETS_ROOMS,92,gods ~ classical mythology,45
+CABINETS_ROOMS,25,"earth, world as celestial body",27
+CABINETS_ROOMS,48,art,24
+CABINETS_ROOMS,23,time,21
+CABINETS_ROOMS,31,man in a general biological sense,20
+CHAPELS_ROOMS,11,Christian religion,57
+CHAPELS_ROOMS,73,New Testament,21
+CHAPELS_ROOMS,71,Old Testament,6
+CHAPELS_ROOMS,48,art,3
+CHAPELS_ROOMS,92,gods ~ classical mythology,2
+CORRIDORS,48,art,2
+CORRIDORS,96,Roman gods and legends,2
+CORRIDORS,52,Reasoning and Formation of Ideas,1
+CORRIDORS,57,Morality,1
+CORRIDORS,11,Christian religion,0
+COUNCIL_CHAMBERS,92,gods ~ classical mythology,2
+COUNCIL_CHAMBERS,11,Christian religion,1
+COUNCIL_CHAMBERS,24,the heavens (celestial bodies),1
+COUNCIL_CHAMBERS,25,"earth, world as celestial body",1
+COUNCIL_CHAMBERS,26,meteorological phenomena,1
+COUNTING_ROOMS,92,gods ~ classical mythology,14
+COUNTING_ROOMS,48,art,12
+COUNTING_ROOMS,25,"earth, world as celestial body",8
+COUNTING_ROOMS,23,time,5
+COUNTING_ROOMS,43,"recreation, amusement",5
+DINING_ROOMS,25,"earth, world as celestial body",2
+DINING_ROOMS,26,meteorological phenomena,2
+DINING_ROOMS,33,relations between individual persons,2
+DINING_ROOMS,41,material aspects of daily life,2
+DINING_ROOMS,92,gods ~ classical mythology,2
+GALLERIES_DISPLAY_SPACES,31,man in a general biological sense,16
+GALLERIES_DISPLAY_SPACES,23,time,10
+GALLERIES_DISPLAY_SPACES,92,gods ~ classical mythology,7
+GALLERIES_DISPLAY_SPACES,21,"the four elements, and ether, the fifth element",4
+GALLERIES_DISPLAY_SPACES,25,"earth, world as celestial body",4
+GUARD_HALLS,48,art,4
+GUARD_HALLS,25,"earth, world as celestial body",2
+GUARD_HALLS,33,relations between individual persons,1
+GUARD_HALLS,11,Christian religion,0
+GUARD_HALLS,12,"non-Christian religions (including institutions, customs and antiquities)",0
+GUEST_ROOMS,41,material aspects of daily life,14
+GUEST_ROOMS,25,"earth, world as celestial body",9
+GUEST_ROOMS,47,crafts and industries,6
+GUEST_ROOMS,31,man in a general biological sense,4
+GUEST_ROOMS,48,art,3
+HALLS,92,gods ~ classical mythology,106
+HALLS,25,"earth, world as celestial body",68
+HALLS,48,art,57
+HALLS,43,"recreation, amusement",26
+HALLS,41,material aspects of daily life,22
+IMPERIAL_HALLS,44,state; law; political life,2
+IMPERIAL_HALLS,11,Christian religion,0
+IMPERIAL_HALLS,12,"non-Christian religions (including institutions, customs and antiquities)",0
+IMPERIAL_HALLS,13,"magic, supernaturalism, occultism",0
+IMPERIAL_HALLS,14,astrology,0
+LIBRARIES_ROOMS,92,gods ~ classical mythology,12
+LIBRARIES_ROOMS,24,the heavens (celestial bodies),6
+LIBRARIES_ROOMS,41,material aspects of daily life,4
+LIBRARIES_ROOMS,49,"education, science and learning",3
+LIBRARIES_ROOMS,25,"earth, world as celestial body",2
+LONG_GALLERIES,41,material aspects of daily life,49
+LONG_GALLERIES,25,"earth, world as celestial body",35
+LONG_GALLERIES,48,art,35
+LONG_GALLERIES,92,gods ~ classical mythology,28
+LONG_GALLERIES,11,Christian religion,14
+MAIN_HALLS,92,gods ~ classical mythology,209
+MAIN_HALLS,48,art,82
+MAIN_HALLS,25,"earth, world as celestial body",60
+MAIN_HALLS,96,Roman gods and legends,52
+MAIN_HALLS,43,"recreation, amusement",35
+MANSION_DINING_ROOMS,45,warfare; military affairs,12
+MANSION_DINING_ROOMS,25,"earth, world as celestial body",5
+MANSION_DINING_ROOMS,92,gods ~ classical mythology,5
+MANSION_DINING_ROOMS,41,material aspects of daily life,4
+MANSION_DINING_ROOMS,11,Christian religion,2
+OFFICES_WORK_SPACES,25,"earth, world as celestial body",1
+OFFICES_WORK_SPACES,49,"education, science and learning",1
+OFFICES_WORK_SPACES,11,Christian religion,0
+OFFICES_WORK_SPACES,12,"non-Christian religions (including institutions, customs and antiquities)",0
+OFFICES_WORK_SPACES,13,"magic, supernaturalism, occultism",0
+PATRONAGE_LODGES,11,Christian religion,17
+PATRONAGE_LODGES,25,"earth, world as celestial body",15
+PATRONAGE_LODGES,48,art,13
+PATRONAGE_LODGES,31,man in a general biological sense,10
+PATRONAGE_LODGES,41,material aspects of daily life,9
+PRESENCE_CHAMBERS,92,gods ~ classical mythology,62
+PRESENCE_CHAMBERS,23,time,19
+PRESENCE_CHAMBERS,25,"earth, world as celestial body",19
+PRESENCE_CHAMBERS,96,Roman gods and legends,17
+PRESENCE_CHAMBERS,48,art,16
+PRIVATE_CHAPELS,11,Christian religion,10
+PRIVATE_CHAPELS,49,"education, science and learning",2
+PRIVATE_CHAPELS,23,time,1
+PRIVATE_CHAPELS,48,art,1
+PRIVATE_CHAPELS,57,Morality,1
+ROYAL_CHAPELS_ROOMS,11,Christian religion,137
+ROYAL_CHAPELS_ROOMS,73,New Testament,46
+ROYAL_CHAPELS_ROOMS,45,warfare; military affairs,34
+ROYAL_CHAPELS_ROOMS,25,"earth, world as celestial body",25
+ROYAL_CHAPELS_ROOMS,41,material aspects of daily life,19
+SALA_TERRENA,48,art,3
+SALA_TERRENA,25,"earth, world as celestial body",2
+SALA_TERRENA,32,human types; peoples and nationalities,2
+SALA_TERRENA,92,gods ~ classical mythology,2
+SALA_TERRENA,31,man in a general biological sense,1
+SALONS_ROOMS_FOR_ENTERTAINING,92,gods ~ classical mythology,3
+SALONS_ROOMS_FOR_ENTERTAINING,48,art,2
+SALONS_ROOMS_FOR_ENTERTAINING,26,meteorological phenomena,1
+SALONS_ROOMS_FOR_ENTERTAINING,11,Christian religion,0
+SALONS_ROOMS_FOR_ENTERTAINING,12,"non-Christian religions (including institutions, customs and antiquities)",0
+SITTING_ROOMS,92,gods ~ classical mythology,5
+SITTING_ROOMS,25,"earth, world as celestial body",2
+SITTING_ROOMS,31,man in a general biological sense,2
+SITTING_ROOMS,96,Roman gods and legends,1
+SITTING_ROOMS,11,Christian religion,0
+STAIRWELLS,92,gods ~ classical mythology,72
+STAIRWELLS,11,Christian religion,46
+STAIRWELLS,48,art,45
+STAIRWELLS,25,"earth, world as celestial body",40
+STAIRWELLS,41,material aspects of daily life,17
+THEATERS_ROOMS,92,gods ~ classical mythology,22
+THEATERS_ROOMS,48,art,10
+THEATERS_ROOMS,41,material aspects of daily life,7
+THEATERS_ROOMS,46,"social and economic life, transport and communication",5
+THEATERS_ROOMS,26,meteorological phenomena,3
+TOILET_ROOMS,23,time,2
+TOILET_ROOMS,11,Christian religion,0
+TOILET_ROOMS,12,"non-Christian religions (including institutions, customs and antiquities)",0
+TOILET_ROOMS,13,"magic, supernaturalism, occultism",0
+TOILET_ROOMS,14,astrology,0
+VESTIBULES,92,gods ~ classical mythology,34
+VESTIBULES,48,art,19
+VESTIBULES,49,"education, science and learning",14
+VESTIBULES,43,"recreation, amusement",12
+VESTIBULES,23,time,11
+WARDROBES_ROOMS,71,Old Testament,3
+WARDROBES_ROOMS,11,Christian religion,2
+WARDROBES_ROOMS,73,New Testament,2
+WARDROBES_ROOMS,12,"non-Christian religions (including institutions, customs and antiquities)",0
+WARDROBES_ROOMS,13,"magic, supernaturalism, occultism",0
